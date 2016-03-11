@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Test</title>
+        <title>Test Dos</title>
     </head>
     <body>
         
@@ -17,17 +17,6 @@ and open the template in the editor.
 
         echo "hola puto<br>";
 
-//        $serverName = 'YOURHIGHNESS'; //serverName\instanceName
-//        $connectionInfo = array('Database' => 'SUBWAYSOFT', "UID" => "sa", "PWD" => "1234");
-//
-//        $conn = sqlsrv_connect($serverName, $connectionInfo);
-//        if ($conn) {
-//            echo "Conexión establecida.<br />";
-//        } else {
-//            echo "Conexión no se pudo establecer.<br />";
-//            die(print_r(sqlsrv_errors(), TRUE));
-//        }
-//
 //        $stmt = sqlsrv_query($conn, $q1);
 //        
 //        if ($stmt == false) {
